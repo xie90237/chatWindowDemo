@@ -10,6 +10,10 @@
 
 ### 示例：
 
+[在线预览](https://xie90237.github.io/#/)
+
+图片预览：
+
 <img src="static/resource/view.png" style="zoom:50%;" />
 
 ### 文件上传：
